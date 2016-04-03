@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FlowLayout">
+        <attr name="bule" format="boolean" />
+        <attr name="mcolor" format="enum">
+            <enum name="yellow" value="1" />
+            <enum name="red" value="2" />
+        </attr>
+        <attr name="hasline" format="boolean"></attr>
+    </declare-styleable>
+
+</resources>
