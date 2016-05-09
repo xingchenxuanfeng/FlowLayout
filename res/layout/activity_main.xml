@@ -16,7 +16,7 @@
         flowlayout:bule="true"
         flowlayout:hasline="true"
         flowlayout:mcolor="yellow" 
-        android:background="#000000">
+        android:background="#ffffff">
     </com.XC.flowlayout.FlowLayout>
 
 </RelativeLayout>
